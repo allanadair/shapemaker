@@ -1,0 +1,37 @@
+{
+   "geometryType":"esriGeometryPolygon",
+   "fields":[],
+   "spatialReference":{
+      "wkid":4326
+   },
+   "features":[
+      {
+         "geometry":{
+            "rings":[
+               [
+                  [
+                     -98.33,
+                     38.48
+                  ],
+                  [
+                     -98.32,
+                     38.52
+                  ],
+                  [
+                     -98.28,
+                     38.51
+                  ],
+                  [
+                     -98.33,
+                     38.48
+                  ]
+               ]
+            ],
+            "spatialReference":{
+               "wkid":4326
+            }
+         },
+         "attributes":{}
+      }
+   ]
+}
